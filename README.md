@@ -1,3 +1,6 @@
+## NOTE: This is a copy of a UIUC project I (Nathaniel Dyer) worked on
+The original is here: https://github.com/nsunkad/wikispeedier
+
 # Introduction
 
 ## Overview of MusiMetrics
